@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"//how-can-i-use-node-js-create-a-server/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"//how-can-i-use-node-js-create-a-server/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
