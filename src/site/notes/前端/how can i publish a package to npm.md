@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//how-can-i-publish-a-package-to-npm/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":false,"permalink":"//how-can-i-publish-a-package-to-npm/","dgPassFrontmatter":true}
 ---
 
 >init a repo
