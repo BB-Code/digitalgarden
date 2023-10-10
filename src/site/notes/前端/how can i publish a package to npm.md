@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-home":true,"permalink":"//how-can-i-publish-a-package-to-npm/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
+
+
 >init a repo
 
 `npm init -y`
