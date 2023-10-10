@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"//how-can-i-publish-a-package-to-npm/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"//how-can-i-publish-a-package-to-npm/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
