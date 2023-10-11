@@ -2,13 +2,6 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/前端/how can i publish a package to npm/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-<script src="https://utteranc.es/client.js"
-        repo="BB-Code/digitalgarden"
-        issue-term="pathname"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async>
-</script>
 
 >init a repo
 
@@ -32,3 +25,12 @@ bin: './index.js'
 
 
 run `npm publish `
+
+
+<script src="https://utteranc.es/client.js"
+        repo="BB-Code/digitalgarden"
+        issue-term="pathname"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>
