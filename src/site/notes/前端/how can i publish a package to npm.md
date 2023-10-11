@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/前端/how can i publish a package to npm/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-home":false,"permalink":"/前端/how can i publish a package to npm/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
 
 
