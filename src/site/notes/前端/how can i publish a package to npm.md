@@ -26,9 +26,8 @@ bin: './index.js'
 
 run `npm publish `
 
-```
+
 > > [!EXAMPLE] Inner callout
-```
 
 <script src="https://utteranc.es/client.js"
         repo="BB-Code/digitalgarden"
