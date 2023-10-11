@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/前端/how can i use node.js create a server/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-home":false,"permalink":"/前端/how can i use node.js create a server/","dgPassFrontmatter":true,"noteIcon":"2"}
 ---
 
 
