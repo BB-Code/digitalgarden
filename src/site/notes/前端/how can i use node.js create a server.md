@@ -24,3 +24,11 @@ http.createServer((req,res)=>{
 >run code
 
 open cmd and run `node sever.js`
+
+<script src="https://utteranc.es/client.js"
+        repo="BB-Code/digitalgarden"
+        issue-term="pathname"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>
