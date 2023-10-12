@@ -1,0 +1,39 @@
+---
+{"dg-publish":true,"dg-home":false,"permalink":"/前端/1 how can i publish a package to npm/","dgPassFrontmatter":true,"noteIcon":"2"}
+---
+
+
+>init a repo
+
+`npm init -y`
+
+
+>write a  js file call index.js
+
+
+```js
+console.log(new Date().getTime())
+```
+
+>modify package.json
+
+```json
+bin: './index.js'
+```
+
+>publish repo
+
+
+run `npm publish `
+
+[[前端/2 how can i use node.js create a server\|2 how can i use node.js create a server]]
+
+ > [!EXAMPLE] Inner callout
+
+<script src="https://utteranc.es/client.js"
+        repo="BB-Code/digitalgarden"
+        issue-term="pathname"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>
